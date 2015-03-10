@@ -1,1 +1,1 @@
-# ML-project
+# Practical Machine Learning Course Prediction Assignment
